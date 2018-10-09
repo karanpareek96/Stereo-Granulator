@@ -1,5 +1,9 @@
 # Stereo-Granulator-in-MATLAB
 
+# Citation
+
+Pareek, K. (2018). "An Implementation of Audio Segmentation and Granular Analysis in MATLAB". Unpublished manuscript, New York University.
+
 # Abstract
 
 A transition from analog processing to digital computing has seen the emergence of numerous sound synthesis models. Efficieny in algorithms on digital platforms like C++ and MATLAB have aided in expanding the boundries of audio synthesis. This paper provides an overview of Granular Synthesis, a concept explored by Curtis Roads in his pivotal work, Microsound (2001), and its subsequent implementation in MATLAB. By defining the various time scales for audio representation, Roads introduced a technique of sound synthesis that employs the use of short grains of sounds, the parameters of which can be set to yield a multitude of possibilities. Refining Roads’ approach, author Udo Zolzer, in his book DAFX: Digital Audio Effects (2011), studied and formalized concepts about audio segmentation in the frequency and time domain that laid the foundation of modern granulation modules.
